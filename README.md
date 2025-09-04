@@ -54,7 +54,6 @@ miola : Custom Model # Automotive # TensorFlow
 
 ![miola023.png](./media/miola023.png)
 
-![miola024.png](./media/miola024.png)
 
 
 
